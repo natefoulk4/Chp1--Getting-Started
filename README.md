@@ -8,6 +8,8 @@
 
 [![Code Health](https://landscape.io/github/natefoulk4/Chp1--Getting-Started/master/landscape.svg?style=flat)](https://landscape.io/github/natefoulk4/Chp1--Getting-Started/master)
 
+Full API Documentation available at: [github pages](https://natefoulk4.github.io/demo/html).  
+
 
 # Chp1--Getting-Started
 
